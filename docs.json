@@ -29,8 +29,7 @@
               "essentials/images",
               "essentials/settings",
               "essentials/navigation",
-              "essentials/reusable-snippets",
-              "api-reference/introduction"
+              "essentials/reusable-snippets"
             ]
           }
         ]
